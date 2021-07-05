@@ -97,7 +97,7 @@ author:
   name             : "Sishuo Chen 陈思硕"
   avatar           : "/assets/images/head.jpg"
   icon             : "cat"
-  bio              : "Master Student Focusing on Machine Learning"
+  bio              : "Master Student, Data Science"
   location         : "Peking University"
   links:
     - label: "Email"
@@ -134,9 +134,7 @@ footer:
 
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
+include: ["_pages", ".htaccess"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
