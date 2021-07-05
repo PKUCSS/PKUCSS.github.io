@@ -261,9 +261,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
-# Archives
-collections:
   archives:
     output: true
     permalink: /archives/:path/
