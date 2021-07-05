@@ -8,6 +8,10 @@ main:
     url: /publications/ 
   - title: "Blog"
     url: /blog/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
