@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : true
-search_full_content      : true
+search_full_content      : #true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -134,7 +134,7 @@ footer:
 
 
 # Reading Files
-include: ["_pages", ".htaccess", "_portfolio"]
+include: ["_pages", ".htaccess", "_portfolio", "tags", "categories"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
