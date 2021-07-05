@@ -6,9 +6,7 @@ tag:
     - "photos"
     - "2021"
     - "毕业季"
-show_date: true
-updatedate: "2021-07-06"
-
+date: 2021-07-06
 ---
 
 <figure>
