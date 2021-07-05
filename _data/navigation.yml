@@ -6,6 +6,8 @@ main:
     url: /
   - title: "Publications"
     url: /publications/ 
+  - title: "Blog"
+    url: /portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
