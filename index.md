@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 ---
 
-Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun(孙栩)](https://xusun.org). He received the bachelor degree of computer science and economics at Peking University in July 2021. Currently, he is working on the research topics about natural langugae processing and trustworthy machine learning. 
+Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun(孙栩)](https://xusun.org). He received the bachelor degree of computer science and economics at Peking University in July 2021. Currently, he is working on the research topics about natural language processing and trustworthy machine learning. 
 
 
 ## Education 
