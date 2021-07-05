@@ -96,6 +96,7 @@ analytics:
 author:
   name             : "Sishuo Chen"
   avatar           : "/assets/images/head.jpg"
+  icon             : "cat"
   bio              : "Master Student Focusing on Machine Learning"
   location         : "Peking University"
   links:
