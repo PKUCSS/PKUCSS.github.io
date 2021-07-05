@@ -134,7 +134,7 @@ footer:
 
 
 # Reading Files
-include: ["_pages", ".htaccess", "_portfolio", "tags", "categories"]
+include: ["_pages", ".htaccess", "_portfolio", "tags", "categories", "_archives"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -261,6 +261,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
 
 defaults:
   # _portfolio
