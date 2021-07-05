@@ -6,6 +6,7 @@ tag:
     - "photos"
     - "2021"
     - "毕业季"
+show_date: true
 
 ---
 
