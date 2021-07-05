@@ -1,5 +1,3 @@
 ---
-title: "The first blog"
+title: "Happy Graduation 2021"
 ---
-
-## Happy Graduation
