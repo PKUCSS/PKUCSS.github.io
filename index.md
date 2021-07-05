@@ -21,11 +21,9 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
     -    Tutor: Prof. [Xu Sun(孙栩)](https://xusun.org)
     -    Group:  [Language Computing and Machine Learning Group (Lanco)](https://lancopku.github.io/)
 - 2017 - 2021
-
-    Undergraduate student of Peking University
     
-    -    Bachelor(computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of PKU
-    -    Bachelor(double degree, economics), at [National School of Development(NSD)](https://en.nsd.pku.edu.cn/) of PKU
+    -    Bachelor(computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of Peking University
+    -    Bachelor(double degree, economics), at [National School of Development(NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
 
@@ -37,4 +35,7 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
  - *Feature Space Singularity for Out-of-Distribution Detection*, Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen,Xinyu  Zhou and  Bin  Dong, published at the Workshop on Artificial Intelligence Safety 2021 (SafeAI 2021) co-located with AAAI 2021  [Paper](https://arxiv.org/abs/2011.14654) [Code](https://github.com/megvii-research/FSSD_OoD_Detection)
  - More works under review, to be released
 
+## Honors
 
+- Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
+- The Third Prize of Peking Univeristy Scholarship, 2019-2020
