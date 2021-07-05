@@ -1,7 +1,12 @@
 ---
 title: "Happy Graduation 2021"
+category:
+    - "daily" 
 tag:
-    - "daily"
+    - "photos"
+    - "2021"
+    - "毕业季"
+
 ---
 
 
