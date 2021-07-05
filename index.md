@@ -40,4 +40,4 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 ## Contact 
 
-Email:  [sishuochenpku@foxmail.com](sishuochenpku@foxmail.com)
+Email:  [sishuochenpku@foxmail.com](mailto:sishuochenpku@foxmail.com)
