@@ -134,7 +134,7 @@ footer:
 
 
 # Reading Files
-include: ["_pages", ".htaccess", "_portfolio", "tags", "categories", "_archives"]
+include: ["_pages", ".htaccess", "_portfolio", "tags", "categories"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -231,22 +231,22 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layouts:
+#    category: archive-taxonomy
+#    tag: archive-taxonomy
+#  permalinks:
+#    category: /categories/:name/
+#    tag: /tags/:name/
 
 
 
@@ -261,9 +261,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  archives:
-    output: true
-    permalink: /archives/:path/
 
 defaults:
   # _portfolio
