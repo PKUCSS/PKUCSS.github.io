@@ -16,6 +16,6 @@ Works on OoD generalizaiton and backdoor attacks, to be released
 
 We propose a simple yet effective algorithm named FSSD based on a novel observation: in a trained neural network, OoD samples with bounded norms well concentrate in the feature space. It achieves state-of-the-art performance on various OoD detection benchmark and enjoys robustness to slight corruption in test data. 
 
-![Alt text](../assets/fssd_img1.jpg?raw=true "FSSD demo")
+![Alt text](https://res.cloudinary.com/dhyonw6zc/image/upload/v1625489260/fssd_img1.jpg "FSSD demo")
 
 The [paper](https://arxiv.org/abs/2011.14654)(Safe AI workshop at AAAI 2021) and  [code repo](https://github.com/megvii-research/FSSD_OoD_Detection) have been released. 
