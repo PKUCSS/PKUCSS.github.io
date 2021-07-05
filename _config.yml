@@ -97,7 +97,7 @@ author:
   name             : "Sishuo Chen"
   avatar           : "/assets/images/head.jpg"
   bio              : "Master Student Focusing on Machine Learning"
-  location         : "Peking University, Beijing, China"
+  location         : "Peking University"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
