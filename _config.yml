@@ -25,7 +25,7 @@ url                      : "https://pkucss.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PKUCSS/PKUCSS.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://res.cloudinary.com/dhyonw6zc/image/upload/v1625505962/images.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : true
 search_full_content      : #true
 search_provider          : # lunr (default), algolia, google
@@ -96,9 +96,8 @@ analytics:
 author:
   name             : "Sishuo Chen 陈思硕"
   avatar           : "/assets/images/head.jpg"
-  icon             : "cat"
-  bio              : "Master Student, Center for Data Science of Peking Univeristy"
-  location         : "Peking University"
+  bio              : "Power Humanity with AI"
+  location         : "Peking University, Beijing"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
