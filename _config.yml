@@ -241,10 +241,12 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-  layout: archive
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
   permalinks:
-    tag: '/archives/tag/:name/'
-    category: '/archives/category/:name/'
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 
