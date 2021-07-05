@@ -1,5 +1,7 @@
 ---
 title: "Happy Graduation 2021"
+tag:
+    - "daily"
 ---
 
 
