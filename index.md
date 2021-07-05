@@ -32,6 +32,8 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 ## Publications 
 
+[Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
+
  - *Feature Space Singularity for Out-of-Distribution Detection*, Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen,Xinyu  Zhou and  Bin  Dong, published at the Workshop on Artificial Intelligence Safety 2021 (SafeAI 2021) co-located with AAAI 2021  [Paper](https://arxiv.org/abs/2011.14654) [Code](https://github.com/megvii-research/FSSD_OoD_Detection)
  - More works under review, to be released
 
@@ -39,3 +41,7 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 - Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
+
+## Contact 
+
+Email:  [sishuochenpku@foxmail.com](sishuochenpku@foxmail.com)
