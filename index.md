@@ -11,7 +11,7 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 -  2021 - Now
     
-    Master student of [Center for Data Science]((https://www.ds.pku.edu.cn/)), Peking University
+    Master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University
     
     -    Major: Data Science    
     -    Tutor: Prof. [Xu Sun(孙栩)](https://xusun.org)
