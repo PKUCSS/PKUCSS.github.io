@@ -8,7 +8,9 @@ permalink: /publications/
 
 ## 2021 
 
-Works on OoD generalizaiton and backdoor attacks, to be released
+### [Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks]() ( Finding of EMNLP 2021, to be released)
+
+
 
 ## 2020 
 
