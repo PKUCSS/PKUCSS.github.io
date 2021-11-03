@@ -47,7 +47,7 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 
 ## News
-- 2021-06: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree on economy.
+- 2021-06: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree in economy.
 - 2021-11: I organized a group night run at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
 
 
