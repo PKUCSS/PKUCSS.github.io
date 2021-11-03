@@ -40,6 +40,17 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 - Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
+## Services
+
+- Teaching assistant for *Introduction to Computation*
+- Peking University admissions volunteer in Fujian
+
+
+## News
+- 2021-06: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree on economy.
+- 2021-11: I organized a group night run at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
+
+
 ## Contact 
 
 Email:  [sishuochenpku@foxmail.com](mailto:sishuochenpku@foxmail.com)
