@@ -14,16 +14,16 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
     Master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University
     
     -    Major: Data Science    
-    -    Tutor: Prof. [Xu Sun(孙栩)](https://xusun.org)
+    -    Tutor: Prof. [Xu Sun (孙栩)](https://xusun.org)
     -    Group:  [Language Computing and Machine Learning Group (Lanco)](https://lancopku.github.io/)
 - 2017 - 2021
     
     -    Bachelor(computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of Peking University
-    -    Bachelor(double degree, economics), at [National School of Development(NSD)](https://en.nsd.pku.edu.cn/) of Peking University
+    -    Bachelor(double degree, economics), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
 
-- 2019.7-2020.5, Research intern at Megvii Research(Face++) 
+- 2019.7-2020.5, Research intern at Megvii Research (Face++) 
 - 2020.8-2021.3, Data mining intern at the user profile team of Bytedance   
 
 ## Publications 
@@ -42,7 +42,7 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
 
 ## Services
 
-- Teaching assistant for *Introduction to Computation*
+- Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://sfl.pku.edu.cn/xygk/szdw/wgyyxjyyyyxyjs/63755.htm)
 - Peking University admissions volunteer in Fujian
 
 
