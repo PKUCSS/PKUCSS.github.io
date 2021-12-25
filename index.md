@@ -15,11 +15,11 @@ Sishuo Chen(陈思硕) is a master student of [Center for Data Science](https://
     
     -    Major: Data Science    
     -    Tutor: Prof. [Xu Sun (孙栩)](https://xusun.org)
-    -    Group:  [Language Computing and Machine Learning Group (Lanco)](https://lancopku.github.io/)
+    -    Group:  [Language Computing and Machine Learning Group (LANCO)](https://lancopku.github.io/)
 - 2017 - 2021
     
-    -    Bachelor(computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of Peking University
-    -    Bachelor(double degree, economics), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
+    -    Bachelor (computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of Peking University
+    -    Bachelor (double degree, economics), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
 
