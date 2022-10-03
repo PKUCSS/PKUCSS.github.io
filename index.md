@@ -18,7 +18,7 @@ Sishuo Chen (陈思硕) is a master student of [Center for Data Science](https:/
     -    Group:  [Language Computing and Machine Learning Group (LANCO)](https://lancopku.github.io/)
 - 2017 - 2021
     
-    -    Bachelor (computer science), at [EECS school](http://eecs.pku.edu.cn/Home/HOME.htm) of Peking University
+    -    Bachelor (computer science), at [EECS school](https://eecs.pku.edu.cn/) of Peking University
     -    Bachelor (economics, double bachelor's degree), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
@@ -43,7 +43,7 @@ Sishuo Chen (陈思硕) is a master student of [Center for Data Science](https:/
 ## Services
 
 - Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://sfl.pku.edu.cn/xygk/szdw/wgyyxjyyyyxyjs/63755.htm)
-- Peking University admissions volunteer in Fujian
+- Peking University admissions volunteer in Fujian Province
 
 
 ## News
