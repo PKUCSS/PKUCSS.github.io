@@ -24,7 +24,7 @@ Sishuo Chen (陈思硕) is a master student of [Center for Data Science](https:/
 ## Career 
 
 - 2019.7-2020.5, Research intern at Megvii Research (Face++) 
-- 2020.8-2021.3, Data mining intern at the user profile team of Bytedance   
+- 2020.8-2021.3, Data mining intern at the user profile team of ByteDance   
 
 ## Publications 
  
