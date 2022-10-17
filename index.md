@@ -34,9 +34,9 @@ At present, I am looking for overseas PhD admission opportunities (on machine le
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
-- *Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks*, **Sishuo Chen**, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi and Xu Sun, Findings of EMNLP 2022 (coming soon)
+- *Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks*, **Sishuo Chen**, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi and Xu Sun, Findings of EMNLP 2022 [Paper](https://arxiv.org/abs/2210.07907) [Code](https://github.com/lancopku/DAN)
 
-- *Holistic Sentence Embeddings for Better Out-of-Distribution Detection*, **Sishuo Chen**, Xiaohan Bi, Rundong Gao and Xu Sun, Findings of EMNLP 2022 (coming soon)
+- *Holistic Sentence Embeddings for Better Out-of-Distribution Detection*, **Sishuo Chen**, Xiaohan Bi, Rundong Gao and Xu Sun, Findings of EMNLP 2022 [Paper](https://arxiv.org/abs/2210.07485) [Code](https://github.com/lancopku/Avg-Avg)
 
 -  *Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks*, Ruixuan Luo, Yi Zhang, **Sishuo Chen** and Xu Sun, Findings of EMNLP 2021 [Paper](https://aclanthology.org/2021.findings-emnlp.163.pdf) [Code](https://github.com/lancopku/Attention-Augmentation)
 
