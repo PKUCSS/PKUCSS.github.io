@@ -6,9 +6,30 @@ permalink: /publications/
 ---
 
 
+
+## 2022
+
+### [Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks](https://arxiv.org/pdf/2210.07907.pdf) (Findings of EMNLP 2022)
+
+Natural language processing (NLP) models are known to be vulnerable to backdoor attacks, which poses a newly arisen threat to NLP models. Prior online backdoor defense methods for NLP models only focus on the anomalies at either the input or output level, still suffering from fragility to adaptive attacks and high computational cost. In this work, we take the first step to investigate the unconcealment of textual poisoned samples at the intermediate-feature level and propose a feature-based efficient online defense method. Through extensive experiments on existing attacking methods, we find that the poisoned samples are far away from clean samples in the intermediate feature space of a poisoned NLP model. Motivated by this observation, we devise a distance-based anomaly score (DAN) to distinguish poisoned samples from clean samples at the feature level. Experiments on sentiment analysis and offense detection tasks demonstrate the superiority of DAN, as it substantially surpasses existing online defense methods in terms of defending performance and enjoys lower inference costs. Moreover, we show that DAN is also resistant to adaptive attacks based on feature-level regularization.
+
+The [paper](https://arxiv.org/pdf/2210.07907.pdf) (Findings of EMNLP 2022) and [code repo](https://github.com/lancopku/DAN) are available.
+
+![Alt text](https://res.cloudinary.com/dhyonw6zc/image/upload/v1666166012/fig.png "DAN demo")
+
+
+
+### [Holistic Sentence Embeddings for Better Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07485.pdf) (Findings of EMNLP 2022)
+
+Detecting out-of-distribution (OOD) instances is significant for the safe deployment of NLP models. Among recent textual OOD detection works based on pretrained language models (PLMs), distance-based methods have shown superior performance. However, they estimate sample distance scores in the last-layer CLS embedding space and thus do not make full use of linguistic information underlying in PLMs. To address the issue, we propose to boost OOD detection by deriving more holistic sentence embeddings. On the basis of the observations that token averaging and layer combination contribute to improving OOD detection, we propose a simple embedding approach named Avg-Avg, which averages all token representations from each intermediate layer as the sentence embedding and significantly surpasses the state-of-the-art on a comprehensive suite of benchmarks by a 9.33% FAR95 margin. Furthermore, our analysis demonstrates that it indeed helps preserve general linguistic knowledge in fine-tuned PLMs and substantially benefits detecting background shifts. The simple yet effective embedding method can be applied to fine-tuned PLMs with negligible extra costs, providing a free gain in OOD detection.
+
+The [paper](https://arxiv.org/pdf/2210.07485.pdf) (Findings of EMNLP 2022) and [code repo](https://github.com/lancopku/Avg-Avg) are available.
+
+![Alt text](https://res.cloudinary.com/dhyonw6zc/image/upload/v1666166605/layer_analysis.png "Avg-Avg demo")
+
 ## 2021 
 
-### [Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks](https://aclanthology.org/2021.findings-emnlp.163.pdf) ( Findings of EMNLP 2021)
+### [Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks](https://aclanthology.org/2021.findings-emnlp.163.pdf) (Findings of EMNLP 2021)
 
 We propose a novel paradigm based on attention augmentation to introduce crucial cross-domain knowledge via a translation system. The proposed paradigm enables the model attention to draw
 cross-domain knowledge indicated by the implicit word-level cross-lingual alignment between the input and its corresponding translation. Aside from the model requiring crosslingual input, we also establish an off-the-shelf model which eludes the dependency on crosslingual translations. Experiments demonstrate that our proposal significantly advances the state-of-the-art results of cross-domain Chinese segmenting and labeling tasks.
