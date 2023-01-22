@@ -34,6 +34,9 @@ At present, I am looking for overseas PhD admission opportunities (on machine le
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by
+Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and Xu Sun, EACL 2023 (Findings) (Coming Soon)
+
 - *Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks*, **Sishuo Chen**, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi and Xu Sun, Findings of EMNLP 2022 [Paper](https://arxiv.org/abs/2210.07907) [Code](https://github.com/lancopku/DAN) [Chinese News](https://mp.weixin.qq.com/s/-LvfCMSsDimmlVlOBedu5Q)
 
 - *Holistic Sentence Embeddings for Better Out-of-Distribution Detection*, **Sishuo Chen**, Xiaohan Bi, Rundong Gao and Xu Sun, Findings of EMNLP 2022 [Paper](https://arxiv.org/abs/2210.07485) [Code](https://github.com/lancopku/Avg-Avg) [Chinese News](https://mp.weixin.qq.com/s/A_aKO5xFkALxM8tC4alGRg)
