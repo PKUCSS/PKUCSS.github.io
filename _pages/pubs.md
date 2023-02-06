@@ -7,6 +7,18 @@ permalink: /publications/
 
 
 
+## 2023
+
+### [Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features](https://arxiv.org/pdf/2301.12715.pdf) (Findings of EACL 2023)
+
+Detecting out-of-distribution (OOD) inputs is crucial for the safe deployment of natural language processing (NLP) models. Though existing methods, especially those based on the statistics in the feature space of fine-tuned pre-trained language models (PLMs), are claimed to be effective, their effectiveness on different types of distribution shifts remains underexplored. In this work, we take the first step to comprehensively evaluate the mainstream textual OOD detection methods for detecting semantic and non-semantic shifts. We find that: (1) no existing method behaves well in both settings; (2) fine-tuning PLMs on in-distribution data benefits detecting semantic shifts but severely deteriorates detecting non-semantic shifts, which can be attributed to the distortion of task-agnostic features. To alleviate the issue, we present a simple yet effective general OOD score named GNOME that integrates the confidence scores derived from the task-agnostic and task-specific representations. Experiments show that GNOME works well in both semantic and non-semantic shift scenarios, and further brings significant improvement on two cross-task benchmarks where both kinds of shifts simultaneously take place.
+
+The [paper](https://arxiv.org/pdf/2301.12715.pdf) (Findings of EACL 2023) and [code repo](https://github.com/lancopku/GNOME) are available.
+
+<div style="text-align: center">
+<img src="https://res.cloudinary.com/dhyonw6zc/image/upload/v1675664913/fig1.png"/>
+</div>
+
 ## 2022
 
 ### [Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks](https://arxiv.org/pdf/2210.07907.pdf) (Findings of EMNLP 2022)
