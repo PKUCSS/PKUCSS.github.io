@@ -55,12 +55,13 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 
 ## Services
 
-- Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://sfl.pku.edu.cn/xygk/szdw/wgyyxjyyyyxyjs/63755.htm)
+- Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://pkudh.org/service/suqi/)
 - Peking University admissions volunteer in Fujian Province
 
 
 ## News
-- 2022-10: Two papers got accepted to Finding of EMNLP 2022!
+- 2023-01： One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
+- 2022-10: Two papers got accepted to Findings of EMNLP 2022!
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
 - 2021-07: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree in economics.
 
