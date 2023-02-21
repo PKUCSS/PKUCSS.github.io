@@ -6,7 +6,7 @@ title: ""
 
 I am Sishuo Chen (陈思硕), a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun (孙栩)](https://xusun.org). I received my bachelor's degree in computer science and a double bachelor's degree in economics from Peking University in July 2021. Currently, I am working on the research topics about trustworthy machine learning and multimodal natural language processing. 
 
-At present, I am looking for overseas PhD admission opportunities (on machine learning and/or natural language processing, starting from Fall 2024). Please feel free to reach out to me if you are interested (email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)). 
+At present, I am looking for overseas PhD admission opportunities (on machine learning and/or natural language processing, starting from Fall 2024). Please feel free to reach out to me if you are interested (email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [CV](https://drive.google.com/file/d/1nsYFN5i1c0of6FGFzSY6pU35YQGq8M8b/view)). 
 
 
 
