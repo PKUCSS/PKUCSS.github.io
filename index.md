@@ -65,8 +65,3 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
 - 2021-07: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree in economics.
 
-
-
-## Contact 
-
-Email:  [sishuochenpku@foxmail.com](mailto:sishuochenpku@foxmail.com)
