@@ -6,7 +6,7 @@ title: ""
 
 I am Sishuo Chen (陈思硕), a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun (孙栩)](https://xusun.org). I received my bachelor's degree in computer science and a double bachelor's degree in economics from Peking University in July 2021. Currently, I am working on the research topics about trustworthy machine learning and multimodal natural language processing. 
 
-At present, I am looking for overseas PhD admission opportunities (on machine learning and/or natural language processing, starting from Fall 2024). Please feel free to reach out to me if you are interested (email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [CV](https://drive.google.com/file/d/1nsYFN5i1c0of6FGFzSY6pU35YQGq8M8b/view)). 
+Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [Link to my CV](https://drive.google.com/file/d/1nsYFN5i1c0of6FGFzSY6pU35YQGq8M8b/view) 
 
 
 
@@ -49,7 +49,7 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 ## Honors
 
 - Merit Student at Peking University, 2021-2022
-- INDUSTRIAL BANK Scholarship at Peking University, 2021-2022
+- CIB Scholarship at Peking University (sponsered by Chinese Industrial Bank), 2021-2022
 - Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
@@ -60,7 +60,7 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 
 
 ## News
-- 2023-01： One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
+- 2023-01: One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
 - 2022-10: Two papers got accepted to Findings of EMNLP 2022!
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
 - 2021-07: I graduated from Peking University with a bachelor's degree in computer science and a double bachelor's degree in economics.
