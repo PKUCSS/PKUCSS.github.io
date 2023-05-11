@@ -34,6 +34,9 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [Link to my CV](ht
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *Communication Efficient Federated Learning for Multilingual
+Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  🎉 Coming Soon
+
 - *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by
 Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and Xu Sun, EACL 2023 (Findings) [Paper](https://arxiv.org/abs/2301.12715) [Code](https://github.com/lancopku/GNOME) [Chinese News](https://mp.weixin.qq.com/s/LYG9nKLVU6C2l1o51Jygeg)
 
