@@ -6,7 +6,7 @@ title: ""
 
 I am Sishuo Chen (陈思硕), a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun (孙栩)](https://xusun.org). I received my bachelor's degree in computer science and a double bachelor's degree in economics from Peking University in July 2021. Currently, I am working on the research topics about trustworthy machine learning and multimodal natural language processing. 
 
-Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [Link to my CV](https://drive.google.com/file/d/1nsYFN5i1c0of6FGFzSY6pU35YQGq8M8b/view) 
+Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
 
 
 
@@ -34,8 +34,7 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn); [Link to my CV](ht
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
-- *Communication Efficient Federated Learning for Multilingual
-Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  🎉 Coming Soon
+- *Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  [Paper](https://arxiv.org/abs/2305.12449) [Code](https://github.com/lancopku/FedMNMT)
 
 - *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by
 Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and Xu Sun, EACL 2023 (Findings) [Paper](https://arxiv.org/abs/2301.12715) [Code](https://github.com/lancopku/GNOME) [Chinese News](https://mp.weixin.qq.com/s/LYG9nKLVU6C2l1o51Jygeg)
