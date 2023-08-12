@@ -56,7 +56,7 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
 ## Services
-- Reviwer: EMNLP 2023
+- Reviewer: EMNLP 2023
 - PC member: AJCAI 2023
 - Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://pkudh.org/service/suqi/)
 - Peking University admissions volunteer in Fujian Province
