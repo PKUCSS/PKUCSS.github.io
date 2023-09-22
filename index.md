@@ -34,6 +34,8 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation*, Yuanxin Liu, Lei Li, Shuhuai Ren, Rundong Gao, Shicheng Li, **Sishuo Chen**, Xu Sun and Lu Hou, NeurIPS 2023 Track Datasets and Benchmarks [Code](https://github.com/llyx97/FETV)
+
 - *Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  [Paper](https://arxiv.org/abs/2305.12449) [Code](https://github.com/lancopku/FedMNMT)
 
 - *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by
