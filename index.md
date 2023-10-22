@@ -34,6 +34,10 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+
+- *TESTA: Temporal-Spatial Token Aggregation
+for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shicheng Li, Xu Sun, and Lu Hou, Findings of EMNLP 2023 (coming soon)
+
 - *FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation*, Yuanxin Liu, Lei Li, Shuhuai Ren, Rundong Gao, Shicheng Li, **Sishuo Chen**, Xu Sun and Lu Hou, NeurIPS 2023 Track Datasets and Benchmarks [Code](https://github.com/llyx97/FETV)
 
 - *Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  [Paper](https://arxiv.org/abs/2305.12449) [Code](https://github.com/lancopku/FedMNMT)
@@ -58,8 +62,7 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
 ## Services
-- Reviewer: EMNLP 2023
-- PC member: AJCAI 2023
+- Reviewer: EMNLP 2023, ACL Rolling Review 2023, and AJCAI 2023
 - Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://pkudh.org/service/suqi/)
 - Peking University admissions volunteer in Fujian Province
 
