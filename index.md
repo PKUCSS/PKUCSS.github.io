@@ -36,9 +36,9 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
 
 
 - *TESTA: Temporal-Spatial Token Aggregation
-for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shicheng Li, Xu Sun, and Lu Hou, Findings of EMNLP 2023 (coming soon)
+for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shicheng Li, Xu Sun, and Lu Hou, Findings of EMNLP 2023 [Paper](https://arxiv.org/pdf/2310.19060.pdf) [Code](https://github.com/RenShuhuai-Andy/TESTA)
 
-- *FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation*, Yuanxin Liu, Lei Li, Shuhuai Ren, Rundong Gao, Shicheng Li, **Sishuo Chen**, Xu Sun and Lu Hou, NeurIPS 2023 Track Datasets and Benchmarks [Code](https://github.com/llyx97/FETV)
+- *FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation*, Yuanxin Liu, Lei Li, Shuhuai Ren, Rundong Gao, Shicheng Li, **Sishuo Chen**, Xu Sun and Lu Hou, NeurIPS 2023 Track Datasets and Benchmarks [Paper](https://nips.cc/virtual/2023/poster/73413) [Code](https://github.com/llyx97/FETV)
 
 - *Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  [Paper](https://arxiv.org/abs/2305.12449) [Code](https://github.com/lancopku/FedMNMT)
 
