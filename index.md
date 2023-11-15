@@ -43,8 +43,7 @@ for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shich
 
 - *Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter*, Yi Liu, Xiaohan Bi, Lei Li, **Sishuo Chen**, Wenkai Yang and Xu Sun, ACL 2023 (Findings)  [Paper](https://arxiv.org/abs/2305.12449) [Code](https://github.com/lancopku/FedMNMT)
 
-- *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by
-Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and Xu Sun, EACL 2023 (Findings) [Paper](https://arxiv.org/abs/2301.12715) [Code](https://github.com/lancopku/GNOME) [Chinese News](https://mp.weixin.qq.com/s/LYG9nKLVU6C2l1o51Jygeg)
+- *Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and Xu Sun, EACL 2023 (Findings) [Paper](https://arxiv.org/abs/2301.12715) [Code](https://github.com/lancopku/GNOME) [Chinese News](https://mp.weixin.qq.com/s/LYG9nKLVU6C2l1o51Jygeg)
 
 - *Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks*, **Sishuo Chen**, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi and Xu Sun, Findings of EMNLP 2022 [Paper](https://arxiv.org/abs/2210.07907) [Code](https://github.com/lancopku/DAN) [Chinese News](https://mp.weixin.qq.com/s/-LvfCMSsDimmlVlOBedu5Q)
 
@@ -57,8 +56,8 @@ Distorting Task-Agnostic Features*, **Sishuo Chen**, Wenkai Yang, Xiaohan Bi and
 
 ## Honors
 
-- Merit Student at Peking University, 2021-2022
-- CIB Scholarship at Peking University (sponsered by Chinese Industrial Bank), 2021-2022
+- Merit Student at Peking University, 2021-2022, 2022-2023
+- CIB Scholarship at Peking University (sponsered by Chinese Industrial Bank), 2021-2022, 2022-2023
 - Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
