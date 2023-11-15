@@ -26,7 +26,7 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
     -    Bachelor (economics, double bachelor's degree), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
-- 2023.6 - now, NLP R&D intern at WeChat Group, Tencent
+- 2023.6 - 2023.10, NLP R&D intern at WeChat Group, Tencent
 - 2020.8 - 2021.3, Data mining intern at the user profile team of ByteDance   
 - 2019.7 - 2020.5, Research intern at Megvii Research (Face++) 
 
