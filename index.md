@@ -34,6 +34,7 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge*, Yi Liu, Lianzhe Huang, Shicheng Li, **Sishuo Chen**, Hao Zhou, Fandong Meng, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2311.08147)
 
 - *TESTA: Temporal-Spatial Token Aggregation
 for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shicheng Li, Xu Sun, and Lu Hou, Findings of EMNLP 2023 [Paper](https://arxiv.org/pdf/2310.19060.pdf) [Code](https://github.com/RenShuhuai-Andy/TESTA)
