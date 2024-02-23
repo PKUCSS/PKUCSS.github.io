@@ -34,6 +34,8 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2402.11208)
+
 - *RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge*, Yi Liu, Lianzhe Huang, Shicheng Li, **Sishuo Chen**, Hao Zhou, Fandong Meng, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2311.08147)
 
 - *TESTA: Temporal-Spatial Token Aggregation
