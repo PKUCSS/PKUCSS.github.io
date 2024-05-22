@@ -34,9 +34,16 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
-- *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2402.11208)
 
-- *RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge*, Yi Liu, Lianzhe Huang, Shicheng Li, **Sishuo Chen**, Hao Zhou, Fandong Meng, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2311.08147)
+- *BadActs: A Universal Backdoor Defense in the Activation Space*, Biao Yi, **Sishuo Chen**, Yiming Li, Tong Li, Baolei Zhang, Zheli Liu, Findings of ACL 2024 [Paper](https://arxiv.org/abs/2405.11227) [Code](https://github.com/clearloveclearlove/BadActs)
+
+- *TempCompass: Do Video LLMs Really Understand Videos?*, Yuanxin Liu, Shicheng Li, Yi Liu, Yuxiang Wang, Shuhuai Ren, Lei Li, **Sishuo Chen**, Xu Sun, and Lu Hou, Findings of ACL 2024 [Paper](https://arxiv.org/abs/2403.00476) [Code](https://arxiv.org/abs/2403.00476)
+
+- *Towards Multimodal Video Paragraph Captioning Models Robust to Missing Modality*, **Sishuo Chen**, Lei Li,  Shuhuai Ren, Rundong Gao, Yuanxin Liu, Xiaohan Bi, Xu Sun, and Lu Hou, Arxiv Preprint [Paper](https://arxiv.org/abs/2403.19221)
+
+- *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2402.11208) [Code](https://github.com/lancopku/agent-backdoor-attacks)
+
+- *RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge*, Yi Liu, Lianzhe Huang, Shicheng Li, **Sishuo Chen**, Hao Zhou, Fandong Meng, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2311.08147) 
 
 - *TESTA: Temporal-Spatial Token Aggregation
 for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shicheng Li, Xu Sun, and Lu Hou, Findings of EMNLP 2023 [Paper](https://arxiv.org/pdf/2310.19060.pdf) [Code](https://github.com/RenShuhuai-Andy/TESTA)
@@ -63,8 +70,8 @@ for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shich
 - Award for Scientific Research at Peking University, 2018-2019 and 2019-2020
 - The Third Prize of Peking Univeristy Scholarship, 2019-2020
 
-## Services
-- Reviewer: EMNLP 2023, ACL Rolling Review 2023, and AJCAI 2023
+## Service
+- Reviewer: NeurIPS 2024, ACL Rolling Review 2024, EMNLP 2023, ACL Rolling Review 2023, and AJCAI 2023
 - Teaching assistant for *Introduction to Computation*, directed by Prof. [Qi Su](https://pkudh.org/service/suqi/)
 - Peking University admissions volunteer in Fujian Province
 
