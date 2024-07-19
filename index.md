@@ -4,18 +4,28 @@ author_profile: true
 title: ""
 ---
 
-I am Sishuo Chen (陈思硕), a master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University, advised by Prof. [Xu Sun (孙栩)](https://xusun.org). I received my bachelor's degree in computer science and a double bachelor's degree in economics from Peking University in July 2021. Currently, I am working on the research topics about trustworthy machine learning and multimodal natural language processing. 
+I am Sishuo Chen (陈思硕), a ML engineer at Alimama, China's largest online advertising platform, which is affiliated to Alibaba. 
+
+I received my master's degree in computer science from Peking University in 2024, directed by Prof. [Xu Sun](https://xusun26.github.io/) at the [LANCO](https://lancopku.github.io/) group. 
+Previously, I obtained my bachelor's degree in computer science and a double bachelor’s degree in economics from Peking University in 2021.
+
+Currently, I am working on the research topics covering conversion rate esitimation and multimodal natural language processing.
+My reserach interests also cover large language models(LLMs) and trustworthy machine learning.
+Please feel free to chat ^_^
 
 Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
 
+Zhihu(知乎): [Sam多吃青菜](https://www.zhihu.com/people/journey-17-51/columns)
+
+Red(小红书): [Sam多吃青菜](https://www.xiaohongshu.com/user/profile/5b40a80311be103d7c8cfa08?xhsshare=CopyLink&appuid=5b40a80311be103d7c8cfa08&apptime=1721415921)
 
 
 
 ## Education 
 
--  2021 - 2024 (expected)
+-  2021 - 2024 
     
-    Master student of [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University
+    Master (computer science) at the [Center for Data Science](https://www.ds.pku.edu.cn/), Peking University
     
     -    Major: Data Science    
     -    Tutor: Prof. [Xu Sun (孙栩)](https://xusun.org)
@@ -26,6 +36,7 @@ Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
     -    Bachelor (economics, double bachelor's degree), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
+- ML engineer at Alibaba since 2024.7
 - 2023.6 - 2023.10, NLP R&D intern at WeChat Group, Tencent
 - 2020.8 - 2021.3, Data mining intern at the user profile team of ByteDance   
 - 2019.7 - 2020.5, Research intern at Megvii Research (Face++) 
@@ -77,6 +88,7 @@ for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shich
 
 
 ## News
+- 2024-07: I joined Aliaba as a full-time ML engineer after seven wonderful years at PKU
 - 2023-01: One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
 - 2022-10: Two papers got accepted to Findings of EMNLP 2022!
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
