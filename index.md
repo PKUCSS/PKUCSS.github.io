@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 ---
 
-I am Sishuo Chen (陈思硕), a ML engineer at Alimama, China's largest online advertising platform, which is affiliated to Alibaba. 
+I am Sishuo Chen (陈思硕), an ML engineer at Alimama, China's largest online advertising platform, which is affiliated to Alibaba. 
 
 I received my master's degree in computer science from Peking University in 2024, directed by Prof. [Xu Sun](https://xusun26.github.io/) at the [LANCO](https://lancopku.github.io/) group. 
 Previously, I obtained my bachelor's degree in computer science and a double bachelor’s degree in economics from Peking University in 2021.
