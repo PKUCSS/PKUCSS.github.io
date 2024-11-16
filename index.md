@@ -15,9 +15,9 @@ Please feel free to chat ^_^
 
 Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
 
-Zhihu(知乎): [Sam多吃青菜](https://www.zhihu.com/people/journey-17-51/columns)
+Zhihu(知乎): [Sam聊算法](https://www.zhihu.com/people/journey-17-51/columns)
 
-Red(小红书): [Sam多吃青菜](https://www.xiaohongshu.com/user/profile/5b40a80311be103d7c8cfa08?xhsshare=CopyLink&appuid=5b40a80311be103d7c8cfa08&apptime=1721415921)
+Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a80311be103d7c8cfa08?xhsshare=CopyLink&appuid=5b40a80311be103d7c8cfa08&apptime=1721415921)
 
 
 
@@ -45,14 +45,13 @@ Red(小红书): [Sam多吃青菜](https://www.xiaohongshu.com/user/profile/5b40a
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, NeurIPS 2024 [Paper](https://arxiv.org/abs/2402.11208) [Code](https://github.com/lancopku/agent-backdoor-attacks)
 
 - *BadActs: A Universal Backdoor Defense in the Activation Space*, Biao Yi, **Sishuo Chen**, Yiming Li, Tong Li, Baolei Zhang, Zheli Liu, Findings of ACL 2024 [Paper](https://arxiv.org/abs/2405.11227) [Code](https://github.com/clearloveclearlove/BadActs)
 
 - *TempCompass: Do Video LLMs Really Understand Videos?*, Yuanxin Liu, Shicheng Li, Yi Liu, Yuxiang Wang, Shuhuai Ren, Lei Li, **Sishuo Chen**, Xu Sun, and Lu Hou, Findings of ACL 2024 [Paper](https://arxiv.org/abs/2403.00476) [Code](https://arxiv.org/abs/2403.00476)
 
 - *Towards Multimodal Video Paragraph Captioning Models Robust to Missing Modality*, **Sishuo Chen**, Lei Li,  Shuhuai Ren, Rundong Gao, Yuanxin Liu, Xiaohan Bi, Xu Sun, and Lu Hou, Arxiv Preprint [Paper](https://arxiv.org/abs/2403.19221)
-
-- *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2402.11208) [Code](https://github.com/lancopku/agent-backdoor-attacks)
 
 - *RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge*, Yi Liu, Lianzhe Huang, Shicheng Li, **Sishuo Chen**, Hao Zhou, Fandong Meng, Jie Zhou, and Xu Sun, Arxiv Preprint [Paper](https://arxiv.org/abs/2311.08147) 
 
