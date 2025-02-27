@@ -45,6 +45,8 @@ Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a803
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models*, Biao Yi, Tiansheng Huang, **Sishuo Chen**, Tong Li, Zheli Liu, Zhixuan Chu, Yiming Li, ICLR 2025 [Paper](https://openreview.net/forum?id=EbxYDBhE3S&noteId=STocm1OXSi) [Code](https://github.com/clearloveclearlove/BEAT) [HuggingFace](https://huggingface.co/BEAT-LLM-Backdoor)
+
 - *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents*, Wenkai Yang, Xiaohan Bi, Yankai Lin, **Sishuo Chen**, Jie Zhou, and Xu Sun, NeurIPS 2024 [Paper](https://arxiv.org/abs/2402.11208) [Code](https://github.com/lancopku/agent-backdoor-attacks)
 
 - *BadActs: A Universal Backdoor Defense in the Activation Space*, Biao Yi, **Sishuo Chen**, Yiming Li, Tong Li, Baolei Zhang, Zheli Liu, Findings of ACL 2024 [Paper](https://arxiv.org/abs/2405.11227) [Code](https://github.com/clearloveclearlove/BadActs)
