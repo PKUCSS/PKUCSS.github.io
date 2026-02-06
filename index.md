@@ -47,7 +47,7 @@ Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a803
 
 - *Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches*, †Xinyu Li, †**Sishuo Chen**, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.20307) [Code](https://github.com/alimama-tech/OnlineGMV) [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE) (†Equal Contribution)
 
-- *Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*, Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.20307) [Code](https://github.com/alimama-tech/NetCVR) [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE)
+- *Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*, Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.19965) [Code](https://github.com/alimama-tech/NetCVR) [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE)
 
 - *See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction*, **Sishuo Chen**, Zhangming Chan, Xiang-Rong Sheng, Lei Zhang, Sheng Chen, Chenghuan Hou, Han Zhu, Jian Xu, Bo Zheng, CIKM 2025 [Paper](https://arxiv.org/abs/2508.15217)
 
@@ -96,7 +96,7 @@ for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shich
 
 ## News
 - 2026-01: Two papers got accepted to WWW 2026! Proud for my deligent interns!
-- 2024-07: I joined Alibba as a full-time ML engineer after seven wonderful years at PKU
+- 2024-07: I joined Alibaba as a full-time ML engineer after seven wonderful years at PKU
 - 2023-01: One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
 - 2022-10: Two papers got accepted to Findings of EMNLP 2022!
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
