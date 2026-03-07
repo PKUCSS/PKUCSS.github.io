@@ -49,6 +49,8 @@ Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a803
 
 - *Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*, Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.19965) [Code](https://github.com/alimama-tech/NetCVR) [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE)
 
+- *MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms*, †Jinqi Wu, †Sishuo Chen, Zhangming Chan, Yong Bai, Lei Zhang, Sheng Chen, Chenghuan Hou, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chaoyou Fu, Arxiv Preprint, [Paper](https://arxiv.org/abs/2603.02184) [Code](https://github.com/alimama-tech/PyMAL) [HuggingFace](https://huggingface.co/datasets/alimamaTech/MAC) (†Equal Contribution)
+
 - *See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction*, **Sishuo Chen**, Zhangming Chan, Xiang-Rong Sheng, Lei Zhang, Sheng Chen, Chenghuan Hou, Han Zhu, Jian Xu, Bo Zheng, CIKM 2025 [Paper](https://arxiv.org/abs/2508.15217)
 
 - *Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models*, Biao Yi, Tiansheng Huang, **Sishuo Chen**, Tong Li, Zheli Liu, Zhixuan Chu, Yiming Li, ICLR 2025 [Paper](https://openreview.net/forum?id=EbxYDBhE3S&noteId=STocm1OXSi) [Code](https://github.com/clearloveclearlove/BEAT) [HuggingFace](https://huggingface.co/BEAT-LLM-Backdoor)
