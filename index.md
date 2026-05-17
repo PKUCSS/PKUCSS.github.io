@@ -9,15 +9,17 @@ I am Sishuo Chen (陈思硕), an ML engineer at Alimama, China's largest online 
 I received my master's degree in computer science from Peking University in 2024, directed by Prof. [Xu Sun](https://xusun26.github.io/) at the [LANCO](https://lancopku.github.io/) group. 
 Previously, I obtained my bachelor's degree in computer science and a double bachelor’s degree in economics from Peking University in 2021.
 
-Currently, I am working on the research topics covering conversion rate esitimation and multimodal natural language processing.
+Currently, I am working on the research topics covering conversion rate esitimation and large recommendation models (LRMs).
 My reserach interests also cover large language models(LLMs) and trustworthy machine learning.
 Please feel free to chat ^_^
 
 Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
 
+Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a80311be103d7c8cfa08?xhsshare=CopyLink&appuid=5b40a80311be103d7c8cfa08&apptime=1721415921)
+
 Zhihu(知乎): [Sam聊算法](https://www.zhihu.com/people/journey-17-51/columns)
 
-Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a80311be103d7c8cfa08?xhsshare=CopyLink&appuid=5b40a80311be103d7c8cfa08&apptime=1721415921)
+
 
 
 
@@ -45,11 +47,16 @@ Red(小红书): [Sam聊算法](https://www.xiaohongshu.com/user/profile/5b40a803
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
 
+- *MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms*, †Jinqi Wu, †**Sishuo Chen**, Zhangming Chan, Yong Bai, Lei Zhang, Sheng Chen, Chenghuan Hou, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chaoyou Fu, KDD 2026, [Paper](https://arxiv.org/abs/2603.02184) [Code](https://github.com/alimama-tech/PyMAL) [HuggingFace](https://huggingface.co/datasets/alimamaTech/MAC) (†Equal Contribution)
+
+- *EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling*, Mingyang Liu, Yong Bai, Zhangming Chan, **Sishuo Chen**, Xiang-Rong Sheng, Han Zhu, Jian Xu, Xinyang Chen, KDD 2026 [Paper](https://arxiv.org/abs/2602.10811)
+
 - *Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches*, †Xinyu Li, †**Sishuo Chen**, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.20307) [Code](https://github.com/alimama-tech/OnlineGMV) [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE) (†Equal Contribution)
+
+
 
 - *Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*, Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin, WWW 2026 [Paper](https://arxiv.org/abs/2601.19965) [Code](https://github.com/alimama-tech/NetCVR) [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE)
 
-- *MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms*, †Jinqi Wu, †Sishuo Chen, Zhangming Chan, Yong Bai, Lei Zhang, Sheng Chen, Chenghuan Hou, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chaoyou Fu, Arxiv Preprint, [Paper](https://arxiv.org/abs/2603.02184) [Code](https://github.com/alimama-tech/PyMAL) [HuggingFace](https://huggingface.co/datasets/alimamaTech/MAC) (†Equal Contribution)
 
 - *See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction*, **Sishuo Chen**, Zhangming Chan, Xiang-Rong Sheng, Lei Zhang, Sheng Chen, Chenghuan Hou, Han Zhu, Jian Xu, Bo Zheng, CIKM 2025 [Paper](https://arxiv.org/abs/2508.15217)
 
