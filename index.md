@@ -4,13 +4,13 @@ author_profile: true
 title: ""
 ---
 
-I am Sishuo Chen (陈思硕), an ML engineer at Alimama, China's largest online advertising platform, which is affiliated to Alibaba. 
+I am Sishuo Chen (陈思硕), an AI researcher at ByteDance. 
 
 I received my master's degree in computer science from Peking University in 2024, directed by Prof. [Xu Sun](https://xusun26.github.io/) at the [LANCO](https://lancopku.github.io/) group. 
 Previously, I obtained my bachelor's degree in computer science and a double bachelor’s degree in economics from Peking University in 2021.
 
-Currently, I am working on the research topics covering conversion rate esitimation and large recommendation models (LRMs).
-My reserach interests also cover large language models(LLMs) and trustworthy machine learning.
+Currently, I am working on Large Language Models for Recommendation (LLM4Rec).
+My reserach interests also cover multimodal large language models(MLLMs) and trustworthy machine learning.
 Please feel free to chat ^_^
 
 Email: [chensishuo@pku.edu.cn](mailto:chensishuo@pku.edu.cn)
@@ -38,7 +38,8 @@ Zhihu(知乎): [Sam聊算法](https://www.zhihu.com/people/journey-17-51/columns
     -    Bachelor (economics, double bachelor's degree), at [National School of Development (NSD)](https://en.nsd.pku.edu.cn/) of Peking University
 
 ## Career 
-- ML engineer at Alibaba since 2024.7
+- AI researcher at ByteDance since 2026.6
+- 2024.7 - 2026.6, ML engineer at Alibaba
 - 2023.6 - 2023.10, NLP R&D intern at WeChat Group, Tencent
 - 2020.8 - 2021.3, Data mining intern at the user profile team of ByteDance   
 - 2019.7 - 2020.5, Research intern at Megvii Research (Face++) 
@@ -46,6 +47,11 @@ Zhihu(知乎): [Sam聊算法](https://www.zhihu.com/people/journey-17-51/columns
 ## Publications 
  
 [Google Scholar](https://scholar.google.com/citations?user=Jn6gAIAAAAAJ&hl=en) 
+
+- *Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?*, 	†Jinqi Wu, †**Sishuo Chen**, Zhangming Chan, Yong Bai, Chao Yi, Han Zhu, Shuodian Yu, Lei Zhang, Sheng Chen, Chenghuan Hou, Jian Xu, Chaoyou Fu, CIKM 2026 Coming Soon (†Equal Contribution)
+
+- *Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios*, Chao Yi, Feifan Yang, Jiawei Feng, **Sishuo Chen**, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, CIKM 2026 Coming Soon
+
 
 - *MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms*, †Jinqi Wu, †**Sishuo Chen**, Zhangming Chan, Yong Bai, Lei Zhang, Sheng Chen, Chenghuan Hou, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chaoyou Fu, KDD 2026, [Paper](https://arxiv.org/abs/2603.02184) [Code](https://github.com/alimama-tech/PyMAL) [HuggingFace](https://huggingface.co/datasets/alimamaTech/MAC) (†Equal Contribution)
 
@@ -104,8 +110,9 @@ for Long-form Video-Language Understanding*, Shuhuai Ren, **Sishuo Chen**, Shich
 
 
 ## News
+- 2026-06: I joined ByteDance after two nice years at Alibaba, when I published 7 papers at WWW, KDD, and CIKM with my great peers.
 - 2026-01: Two papers got accepted to WWW 2026! Proud for my deligent interns!
-- 2024-07: I joined Alibaba as a full-time ML engineer after seven wonderful years at PKU
+- 2024-07: I joined Alibaba as a full-time ML engineer after seven wonderful years at PKU.
 - 2023-01: One paper got accepted to Findings of EACL 2023 (just on the first day of the Lunar New Year 🎉)!
 - 2022-10: Two papers got accepted to Findings of EMNLP 2022!
 - 2021-11: I organized a group night run attended by thousands of students at Peking University to celebrate the 20th anniversary of Angela Zhang's debut.
