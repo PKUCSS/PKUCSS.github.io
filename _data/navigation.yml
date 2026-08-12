@@ -5,9 +5,11 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
   - title: "Blog"
     url: /blog/
+  - title: "Daily"
+    url: /daily/
   - title: "Tags"
     url: /tags/
   - title: "Categories"
