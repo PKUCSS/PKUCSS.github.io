@@ -6,4 +6,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "daily-card"; // RecSys 日报卡片样式
+
+// custom
+@import "daily-card";

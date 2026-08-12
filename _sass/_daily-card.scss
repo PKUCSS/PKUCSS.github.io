@@ -1,44 +1,73 @@
+/* Daily index cards (/daily/) */
+
+.daily-intro {
+  margin: 0 0 1rem;
+  color: #4b5563;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+.daily-list {
+  margin: 1rem 0 0;
+}
+
 .daily-card {
-  display: block;
-  border: 1px solid #e1e4e8;
-  border-left: 4px solid #0366d6;
-  border-radius: 6px;
-  padding: 1em 1.2em;
-  margin-bottom: 1em;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-left: 4px solid #2563eb;
+  border-radius: 12px;
   background: #ffffff;
-  transition: box-shadow 0.2s ease, transform 0.15s ease;
+  margin: 0 0 0.9rem;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
 
-  &:hover {
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
-    transform: translateY(-2px);
+.daily-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+  border-left-color: #1d4ed8;
+}
+
+.daily-card__link {
+  display: block;
+  padding: 1rem 1.1rem 0.95rem;
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.daily-card__date {
+  display: block;
+  font-weight: 750;
+  font-size: 1.05rem;
+  letter-spacing: 0.2px;
+  color: #1d4ed8;
+  margin: 0 0 0.35rem;
+}
+
+.daily-card__excerpt {
+  display: block;
+  color: #374151;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  margin: 0 0 0.55rem;
+}
+
+.daily-card__more {
+  display: inline-flex;
+  gap: 0.35rem;
+  align-items: center;
+  color: #6b7280;
+  font-size: 0.85rem;
+  font-weight: 650;
+}
+
+/* Better density on mobile */
+@media (max-width: 600px) {
+  .daily-card__link {
+    padding: 0.9rem 0.95rem 0.85rem;
   }
-
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  .daily-date {
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: #0366d6;
-    margin-bottom: 0.35em;
-  }
-
-  .daily-excerpt {
-    color: #444d56;
-    font-size: 0.92rem;
-    line-height: 1.55;
-    margin-bottom: 0.4em;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .daily-more {
-    color: #586069;
-    font-size: 0.85rem;
-    font-weight: 600;
+  .daily-card__date {
+    font-size: 1rem;
   }
 }
+
