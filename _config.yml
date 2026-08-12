@@ -263,6 +263,9 @@ collections:
   daily:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _portfolio
@@ -279,6 +282,16 @@ defaults:
   - scope:
       path: ""
       type: daily
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      read_time: true
+      show_date: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
     values:
       layout: single
       author_profile: false
