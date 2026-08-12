@@ -6,9 +6,7 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Blog"
-    url: /blog/
-  - title: "Daily"
+  - title: "PaperNotes"
     url: /daily/
   - title: "Tags"
     url: /tags/
