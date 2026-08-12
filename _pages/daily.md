@@ -25,7 +25,7 @@ toc: false
 {% for post in items %}
 <a class="daily-card" href="{{ post.url }}" style="{{ card }}">
   <div style="{{ date_style }}">{{ post.date | date: "%Y 年 %m 月 %d 日" }}</div>
-  <div style="{{ excerpt_style }}">{{ post.excerpt | strip_html | strip_newlines | remove_first: "总览" | truncate: 200 }}</div>
+  <div style="{{ excerpt_style }}">{{ post.excerpt | strip_html | strip_newlines | remove_first: "总览" | split: "论文列表" | first | truncate: 200 }}</div>
   <div style="{{ more_style }}">阅读全文 →</div>
 </a>
 {% endfor %}
