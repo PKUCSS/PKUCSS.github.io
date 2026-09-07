@@ -198,7 +198,8 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+future: true # 允许生成"未来日期"的日报，避免跨午夜推送时被 Jekyll 当作未来帖子忽略
 
 
 # Plugins (previously gems:)
